@@ -1,0 +1,7 @@
+{
+  "name": "SkySense AI Weather",
+  "description": "A high-performance weather intelligence app powered by Gemini 3 with Google Search grounding. Features real-time weather detection, AI-driven clothing recommendations, and dynamic atmospheric backgrounds.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
